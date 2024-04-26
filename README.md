@@ -1,0 +1,1 @@
+# sintaxe-de-cria-o-de-uma-fun-o-em-PHP
